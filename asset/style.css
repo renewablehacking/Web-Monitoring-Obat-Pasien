@@ -1,0 +1,114 @@
+body{
+    background-color: green;
+    font-family: Montserrat;
+}
+
+.dash-body{
+    background-color: #fff;
+}
+
+.box-login{
+    margin-top: 100px;
+}
+
+.box-login .bg-box{
+    background-color: #fff;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.box-login .bg-box form{
+    margin-top: 50px;
+}
+
+.box-login .bg-box .btn-login{
+    color: #fff;
+    background-color: green;
+    border: 1px solid green;
+}
+
+.footer .copy-parag{
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 50px;
+}
+
+
+
+/* Navbar */
+.bg-navbar{
+    background-color: green;
+}
+
+.navbar-color .navbar-brand{
+    color: #fff;
+    font-family: Viga;
+}
+
+.navbar-color .nav-link{
+    color: #fff;
+}
+
+.navbar .navbar-toggler{
+    color: #fff;
+    border: 1px solid #fff;
+    border-color: #fff;
+}
+
+
+/* Data Pasien */
+.data-pasien{
+    margin-top: 100px;
+}
+
+.data-pasien h1{
+    color: #000;
+    font-weight: 600;
+}
+
+.data-pasien .btn-green{
+    color: #fff;
+    background-color: green;
+    border: 1px solid green;
+}
+
+
+
+/* Add Data Pasien */
+.add-data{
+    margin-top: 100px;
+}
+
+.add-data h1{
+    color: #000;
+    font-weight: 600;
+}
+
+.add-data .btn-green{
+    background: green;
+    color: #fff;
+    border: 1px solid green;
+}
+
+
+
+
+/* Box Data */
+.box-data{
+    margin-top: 100px;
+}
+
+.box-data .bg-box{
+    background-color: #fff;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.box-data .btn-green{
+    color: #fff;
+    background: green;
+    border: 1px solid green;
+}
